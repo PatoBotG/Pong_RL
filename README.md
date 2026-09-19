@@ -7,7 +7,7 @@ DQN_Manager -> Codi principal amb l'algorisme DQN / Main code with DQN algorithm
 
 Enviroment -> Codi que fa funcionar l'entorn i el cordina amb DQN / Code that runs the environment and coordinates it with the DQN
 
-NeuralNetwork -> Xarxa neuronal / Neural Network + Backprop.
+NeuralNetwork -> Xarxa neuronal / Neural Network + Backprop + Gradient Descent.
 
 ReplayBuffer -> Codi de la memòria intermèdia / Replay Buffer
 
